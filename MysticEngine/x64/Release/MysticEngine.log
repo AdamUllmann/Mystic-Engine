@@ -1,0 +1,9 @@
+﻿  MysticEngine.cpp
+  Scenes.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+  1 of 220 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MysticEngine.vcxproj -> D:\NEW DOWNLOADS\MysticEngine\x64\Release\MysticEngine.exe
