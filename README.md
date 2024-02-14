@@ -2,6 +2,8 @@
 
 Mystic Engine is a lightweight and efficient framework designed for game developers to create click-based adventure games with ease. It provides a simple and intuitive way to handle scene transitions, manage assets, and handle user interactions. The framework is versatile and can be easily extended to create a game-making application with a user interface that translates down to game code. The Engine was heavily inspired by the classic PC games: Myst, Manhole, and Riven.
 
+![Mystic Engine](https://github.com/AdamUllmann/images-for-repos/blob/7abfabc94fcaee8156515a2a343b1447fcdc40a8/0001-min.png)
+
 ## Framework Features
 - **Click-Based Interaction**: Define clickable areas (click boxes) within scenes to trigger actions, sound effects, and scene transitions.
 - **Dynamic Textures**: Resize textures dynamically based on the window size for responsive design.
@@ -22,3 +24,5 @@ Mystic Engine is a lightweight and efficient framework designed for game develop
 The Mystic Engine is designed with extensibility in mind. In the future, the framework can be evolved into a game-making application with a user interface for easier game development. This transformation would allow developers to visually design scenes, customize interactions, and manage assets without writing code directly.
 
 Feel free to contribute, suggest improvements, or extend the framework to meet your game development needs.
+
+![Mystic Engine2](https://github.com/AdamUllmann/images-for-repos/blob/7abfabc94fcaee8156515a2a343b1447fcdc40a8/0003-min.png)
